@@ -10,6 +10,11 @@ import java.util.Scanner;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan program
+ * tunjangan
  */
 public class PBO310117094Latihan35ObjectOrientedProgramTunjangan {
 

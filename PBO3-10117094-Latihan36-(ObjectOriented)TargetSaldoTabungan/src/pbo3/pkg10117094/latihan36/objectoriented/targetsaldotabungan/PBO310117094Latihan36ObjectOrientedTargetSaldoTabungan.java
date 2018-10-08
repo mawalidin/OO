@@ -8,6 +8,11 @@ package pbo3.pkg10117094.latihan36.objectoriented.targetsaldotabungan;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan target
+ * saldo tabungan
  */
 public class PBO310117094Latihan36ObjectOrientedTargetSaldoTabungan {
 

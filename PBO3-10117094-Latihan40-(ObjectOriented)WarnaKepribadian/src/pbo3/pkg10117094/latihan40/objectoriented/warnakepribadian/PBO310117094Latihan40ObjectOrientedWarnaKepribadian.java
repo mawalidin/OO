@@ -13,6 +13,11 @@ import pbo3.pkg10117094.latihan40.objectoriented.warnakepribadian.Warna;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan warna
+ * kepribadian
  */
 public class PBO310117094Latihan40ObjectOrientedWarnaKepribadian {
 

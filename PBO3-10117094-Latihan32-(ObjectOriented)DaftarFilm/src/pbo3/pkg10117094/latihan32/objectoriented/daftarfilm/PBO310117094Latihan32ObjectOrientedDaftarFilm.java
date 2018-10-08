@@ -8,6 +8,10 @@ package pbo3.pkg10117094.latihan32.objectoriented.daftarfilm;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan daftar film
  */
 public class PBO310117094Latihan32ObjectOrientedDaftarFilm {
 

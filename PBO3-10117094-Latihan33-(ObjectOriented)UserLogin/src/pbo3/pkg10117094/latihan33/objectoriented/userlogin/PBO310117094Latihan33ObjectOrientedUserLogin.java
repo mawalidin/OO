@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan user login
  */
 public class PBO310117094Latihan33ObjectOrientedUserLogin {
 

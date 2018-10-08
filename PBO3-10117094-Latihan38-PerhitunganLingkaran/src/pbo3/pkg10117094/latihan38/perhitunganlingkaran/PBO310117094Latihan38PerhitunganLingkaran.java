@@ -8,6 +8,11 @@ package pbo3.pkg10117094.latihan38.perhitunganlingkaran;
 /**
  *
  * @author Muhammad
+ * NAMA         : Muhammad Walidin
+ * NIM             : 10117094
+ * KELAS        : PBO-3
+ * Deskripsi     : Program ini berisi program untuk menampilkan perhitungan
+ * lingkaran
  */
 public class PBO310117094Latihan38PerhitunganLingkaran {
 
